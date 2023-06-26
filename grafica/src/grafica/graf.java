@@ -1,3 +1,4 @@
+#Professor Denis
 package grafica;
 import javax.swing.*;
 import java.awt.*;
